@@ -12,5 +12,6 @@
   --active-bg: var(--active);
 }
 body {
+  content: "<h1>loaded here script</h1>";
   cursor: alias;
 }
