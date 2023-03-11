@@ -1,5 +1,5 @@
 :root {
-  --primary: red;
+  --primary: #4675bf;
   --primary_rgb: 70, 117, 191;
   --primary_active: #4675bf;
   --primary_rgb_active: 70, 117, 191;
@@ -9,4 +9,5 @@
   --secondary_rgb_active: 25, 51, 90;
   --active: #dc143c;
   --font: white;
+  --active-bg: var(--active);
 }
