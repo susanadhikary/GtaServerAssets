@@ -11,7 +11,7 @@
   --font: white;
   --active-bg: var(--active);
 }
-body {
+body::before {
   content: "<h1>loaded here script</h1>";
   cursor: alias;
 }
