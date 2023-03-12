@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap");
 :root {
   --primary: #4675bf;
   --primary_rgb: 70, 117, 191;
@@ -10,6 +11,20 @@
   --active: #dc143c;
   --font: white;
   --active-bg: var(--active);
+  --font-family: "Inter" !important;
+  --border-style: "";
+}
+p,
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+small,
+a {
+  font-family: "Inter" !important;
 }
 * {
   cursor: alias;
